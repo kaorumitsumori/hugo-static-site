@@ -1,1 +1,1 @@
-# hugo-netlify-blog
+# hugo-blog

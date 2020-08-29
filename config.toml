@@ -1,0 +1,4 @@
+baseURL = "http://kaorumitsumori.com/"
+languageCode = "en-us"
+title = "Kaoru's diary"
+theme = "ananke"
